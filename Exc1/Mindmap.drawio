@@ -1,0 +1,192 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" modified="2025-03-02T06:42:21.062Z" version="21.6.8" etag="YtNcQdzvR78nZpRppV0M" type="device">
+  <diagram id="wYgKJeACV6GXZTR-aHK-" name="Mindmap">
+    <mxGraphModel dx="3195" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OrWQRgsOlTw9QaFvcvrq-13" value="Безопасность данных" style="rounded=1;whiteSpace=wrap;shadow=0;strokeColor=#E07A5F;strokeWidth=6;fillColor=#F2CC8F;fontSize=12;align=center;html=1;fontStyle=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="500" y="371" width="155" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-1" value="Внутренние данные" style="endArrow=oval;html=1;fontSize=14;fontColor=default;endFill=0;endSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OrWQRgsOlTw9QaFvcvrq-13">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="840" y="200" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-2" value="Секретные данные" style="endArrow=oval;html=1;fontSize=14;fontColor=default;endFill=0;endSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OrWQRgsOlTw9QaFvcvrq-13">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="840" y="600" as="sourcePoint" />
+            <mxPoint x="640" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-3" value="Публичные данные" style="endArrow=oval;html=1;fontSize=14;fontColor=default;endFill=0;endSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OrWQRgsOlTw9QaFvcvrq-13">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="320" y="200" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-4" value="Конфиденциальные данные" style="endArrow=oval;html=1;fontSize=14;fontColor=default;endFill=0;endSize=24;strokeWidth=2;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OrWQRgsOlTw9QaFvcvrq-13">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="320" y="600" as="sourcePoint" />
+            <mxPoint x="665" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-5" value="Данные об объектах недвижимости на витрине (описание объектов, параметры объектов, стоимость)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-8" value="Пресс-релизы, новости, анонсы" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-9" value="Публичные договоры и соглашения с клиентом (сбор и использование перс. данных, разрешение на сбор куков и т.п.), правила защиты контента от копирования и использования (фото, видео)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-11" value="&lt;div&gt;Риски: искажение данных,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;некачественные данные,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;обесценивание данных.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Оценка риска - незначительный&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-5">
+          <mxGeometry x="-1" y="71" relative="1" as="geometry">
+            <mxPoint x="30" y="120" as="sourcePoint" />
+            <mxPoint x="510" y="381" as="targetPoint" />
+            <mxPoint x="-71" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-13" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Недостоверность информации,&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;в части стоимости и параметров объекта недвиживости,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;приведет к негативу со стороны клиентов (ухудшению NPS),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;репутационным рискам, возможным финансовым убыткам,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;если стоимость не является публичной оффертой и&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;условия не прописаны в отдельных публичных документах офферты и компании придется за свой счет возместить продавцу разницу с заявленной и оплаченной стоимостью&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="120" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-14" value="&lt;div&gt;Риски: искажение данных,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;некачественные данные,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;обесценивание данных.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Оценка риска - незначительный&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-8">
+          <mxGeometry x="-1" y="81" relative="1" as="geometry">
+            <mxPoint x="-10" y="300" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+            <mxPoint x="-70" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-15" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Недостоверность информации,&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;в части пресс-релизов, новостей, анонсов могут нести репутационные риски и негатив со стороны клиентов (ухудшение NPS)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="280" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-16" value="&lt;div&gt;Риски: искажение данных,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;некачественные данные,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;обесценивание данных.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Оценка риска - незначительный&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-9">
+          <mxGeometry x="-1" y="81" relative="1" as="geometry">
+            <mxPoint y="430" as="sourcePoint" />
+            <mxPoint x="180" y="310" as="targetPoint" />
+            <mxPoint x="-70" y="41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-17" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;Недостоверность информации или ее отсутствие,&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;в части публичных юридических документов, размещенных на сайте, могут нести юридические и финансовые риски.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px; font-weight: 700;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal; background-color: initial;&quot;&gt;Договоры и соглашения по сбору и использованию перс данных - штраф со стороны регулирующих органов. Договор офферты - финансовые потери при сделках. Правила защиты контента - копирование и использование контента на других площадках&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="430" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-18" value="Данные об объектах недвижимости на витрине (фото и видео объектов)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="700" y="230" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-19" value="Журналы логирования IT-систем, данные о конфигурациях оборудования, информация о сетевой инфраструктуре." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-20" value="&lt;div&gt;Риски:&lt;/div&gt;утечка данных&lt;div&gt;Оценка риска - незначительный&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-18">
+          <mxGeometry x="-1" y="-54" relative="1" as="geometry">
+            <mxPoint x="1130" y="130" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+            <mxPoint x="58" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-21" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 11px;&quot;&gt;Копирование фото и видео-материалов&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;для использования их на сторонних ресурсах&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="120" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-22" value="&lt;div&gt;Риски:&lt;/div&gt;утечка данных&lt;div&gt;Оценка риска - незначительный&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-19">
+          <mxGeometry x="-1" y="-75" relative="1" as="geometry">
+            <mxPoint x="1130" y="400" as="sourcePoint" />
+            <mxPoint x="1020" y="260" as="targetPoint" />
+            <mxPoint x="60" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-23" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Позволит злоумышленнику узнать о сетевой инфраструктуре компании, об оборудовании и его конфигурациях, а также о данных и их движению внутри системы, что позволит спроектировать и спланировать вредоносную атаку&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="420" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-24" value="ФИО, телефон и электронная почта клиентов" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-25" value="Дополнительные данные клиента для проведения сделки по покупки объекта недвижимости" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-26" value="Контракты и условия сотрудничества с поставщиками объектов недвижимости" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="730" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-27" value="Контракты и условия сотрудничества с управляющими компаниями" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="780" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-28" value="Информация о продажах, данные о транзакциях, реквизиты платёжных карт" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="700" y="640" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-29" value="Учетные записи сотрудников (УЗ, группы, роли, привилегии в Active Directory)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="700" y="680" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-30" value="&lt;div&gt;Риски:&amp;nbsp;утечка данных,&amp;nbsp;потеря данных,&lt;/div&gt;&lt;div&gt;искажение данных,&lt;/div&gt;&lt;div&gt;некачественные данные&lt;/div&gt;&lt;div&gt;Оценка риска - критический&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-24">
+          <mxGeometry x="-1" y="134" relative="1" as="geometry">
+            <mxPoint y="660" as="sourcePoint" />
+            <mxPoint x="180" y="370" as="targetPoint" />
+            <mxPoint x="-120" y="74" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-31" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;По ФЗ-152 утечка перс. данных влечет крупные финансовые потери, репутационные риски, а в особых случаях и уголовную ответственность. Недостоверная информация о клиенте влечет ошибки при оформлении сделки по объекту недвижимости&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="660" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-32" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Риски:&amp;nbsp;утечка данных,&amp;nbsp;потеря данных,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;искажение данных,&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;некачественные данные.&lt;/div&gt;Оценка риска - значительный" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-25">
+          <mxGeometry x="-1" y="133" relative="1" as="geometry">
+            <mxPoint x="10" y="760" as="sourcePoint" />
+            <mxPoint x="180" y="670" as="targetPoint" />
+            <mxPoint x="-83" y="95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-33" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Утечка данных влечет раскрытие информации о клиенте.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Недостоверная информация о клиенте влечет ошибки при оформлении сделки по объекту недвижимости&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="790" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-34" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Риски:&amp;nbsp;утечка данных.&lt;/div&gt;Оценка риска - значительный" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-26">
+          <mxGeometry x="-1" y="122" relative="1" as="geometry">
+            <mxPoint y="870" as="sourcePoint" />
+            <mxPoint x="180" y="710" as="targetPoint" />
+            <mxPoint x="-50" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-35" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Утечка данных о поставщике и услових сотрудничества влечет репутационные и финансовые риски. Поставщика могут переманить конкуренты более выгодными условиями. Потеря ключевых поставщиков нанесет репутационные риски компании&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="890" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-36" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Риски:&amp;nbsp;утечка данных.&lt;/div&gt;Оценка риска - значительный" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-27">
+          <mxGeometry x="-0.6667" relative="1" as="geometry">
+            <mxPoint x="325" y="880" as="sourcePoint" />
+            <mxPoint x="180" y="760" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-37" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Утечка данных об управляющих компаниях и услових сотрудничества влечет репутационные и финансовые риски. Партнера могут переманить конкуренты более выгодными условиями. Потеря ключевых партнеров нанесет репутационные риски компании&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="170" y="910" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-38" value="&lt;div&gt;Риски:&lt;/div&gt;утечка данных,&amp;nbsp;искажение данных,&lt;div&gt;некачественные данные&lt;/div&gt;&lt;div&gt;Оценка риска - критический&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-28">
+          <mxGeometry x="-1" y="-108" relative="1" as="geometry">
+            <mxPoint x="1080" y="660" as="sourcePoint" />
+            <mxPoint x="1020" y="315" as="targetPoint" />
+            <mxPoint x="100" y="68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-39" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Утечка данных по платежным инструментам клиентов строго регулируется законами и влечет не только административное (финансовое) наказание, но и в отдельных случаях, уголовное.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Недостоверная финансовая информация влечет ошибки в бухгалтерсом учете и налогообложении, следовательно, существует финансовый риск&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="690" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-40" value="&lt;div&gt;Риски:&lt;/div&gt;утечка данных,&amp;nbsp;искажение данных,&lt;div&gt;некачественные данные,&amp;nbsp;обесценивание данных&lt;/div&gt;&lt;div&gt;Оценка риска - критический&lt;/div&gt;" style="endArrow=oval;html=1;fontSize=10;fontColor=default;endFill=0;endSize=24;strokeWidth=1;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#E07A5F;rounded=1;spacing=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fs3zBO_XQsAq3teqZ_nY-29">
+          <mxGeometry x="-1" y="-20" relative="1" as="geometry">
+            <mxPoint x="855" y="800" as="sourcePoint" />
+            <mxPoint x="1020" y="670" as="targetPoint" />
+            <mxPoint x="-20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs3zBO_XQsAq3teqZ_nY-41" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Утечка данных по сотрудникам и их ролям позволит таргетированно спланировать атаку или повлиять на нужных людей в компании.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Искажение данных в AD позволит получить несанкционированный доступ к информации внутри компании.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Недостоверная или устаревшая информация в AD позволит сотрудникам, прекратившим свои полномочия (переведенных, уволенным), получить несанкционированный доступ к запрещенным ресурсам&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="700" y="890" width="300" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
